@@ -1,4 +1,4 @@
-package com.exceptionHandling.exception;
+package com.topic.exceptionHandling.exception;
 
 public class DuplicateValueException extends Exception{
 

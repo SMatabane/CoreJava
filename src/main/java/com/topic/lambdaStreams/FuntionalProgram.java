@@ -1,4 +1,4 @@
-package com.lambdaStreams;
+package com.topic.lambdaStreams;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -11,7 +11,8 @@ import java.util.stream.Collectors;
 public class FuntionalProgram {
 
     /*
-       streams expressions
+       Streams in Java are a powerful feature introduced in Java 8 that allow you to process data in a functional style.
+       They help you work with collections of data (like Lists or Sets) by applying a series of operations such as filtering, mapping, reducing, sorting, and more.
     */
     public static void streams (){
         /*

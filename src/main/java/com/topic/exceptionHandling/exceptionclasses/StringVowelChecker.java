@@ -1,6 +1,6 @@
-package com.exceptionHandling.exceptionclasses;
+package com.topic.exceptionHandling.exceptionclasses;
 
-import com.exceptionHandling.exception.VowelException;
+import com.topic.exceptionHandling.exception.VowelException;
 
 import java.util.Scanner;
 

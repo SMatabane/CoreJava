@@ -1,6 +1,6 @@
-package com.exceptionHandling.exceptionclasses;
+package com.topic.exceptionHandling.exceptionclasses;
 
-import com.exceptionHandling.exception.DuplicateValueException;
+import com.topic.exceptionHandling.exception.DuplicateValueException;
 
 import java.util.*;
 /*
