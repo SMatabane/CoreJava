@@ -74,6 +74,8 @@ public class ProjectSolution {
         } catch (InputMismatchException e) {
             System.out.println(" Invalid input. Please enter a String.");
 
+
+        }finally{
             scanner.close();
         }
 
